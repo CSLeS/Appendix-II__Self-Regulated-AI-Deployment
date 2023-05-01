@@ -1,5 +1,4 @@
-# Appendix-II__Self-Regulated-AI-Deployment
-GV342L Candidate 43996, Appendix II
+# Appendix-II: Python code
 
 Script 1:
 - Proposition 1 (Section 4.3)
